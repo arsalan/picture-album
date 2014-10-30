@@ -1,8 +1,6 @@
-# Pictures-v1
+# Picture Album
 
-This README outlines the details of collaborating on this Ember application.
-
-A short introduction of this app could easily go here.
+Picture Album is an Ember.js application that is useful as a resource for beginning Ember developers. It uses Ember-CLI for maximum awesomeness. A REST API backend is needed to make Ember-Data happy and perform CRUD operations. If you have any questions or suggestions, tweet me @arsalania.
 
 ## Prerequisites
 
@@ -42,7 +40,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
-
+* Arsalan's blog: http://arsalania.com
 * ember: http://emberjs.com/
 * ember-cli: http://www.ember-cli.com/
 * Development Browser Extensions
